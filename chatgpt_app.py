@@ -12,7 +12,7 @@ profile_pic = current_dir / "assets" / "profile-pic.png"
 # --- GENERAL SETTINGS ---
 PAGE_TITLE = "My Digital CV | Josephine Doe"
 PAGE_ICON = ":wave:"
-NAME = "Jane Doe"
+NAME = "Jose Doe"
 DESCRIPTION = """
 Recent graduate of the Czechitas Digital Academy Data, transitioning from marketing to data analytics, passionate about leveraging data to drive business decisions.
 """
