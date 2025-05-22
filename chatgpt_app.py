@@ -10,7 +10,7 @@ resume_file = current_dir / "assets" / "CV.pdf"
 profile_pic = current_dir / "assets" / "profile-pic.png"
 
 # --- GENERAL SETTINGS ---
-PAGE_TITLE = "Digital CV | Jane Doe"
+PAGE_TITLE = "My Digital CV | Josephine Doe"
 PAGE_ICON = ":wave:"
 NAME = "Jane Doe"
 DESCRIPTION = """
